@@ -9,7 +9,7 @@ vless://caa2bde1-e7ef-4ab1-ab95-c6fda843aabc@185.146.173.39:8880?host=Login.Cafe
 
 vless://caa2bde1-e7ef-4ab1-ab95-c6fda843aabc@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_c2221-0
 
-vless://caa2bde1-e7ef-4ab1-ab95-c6fda843aabc@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_c2222-0
+vless://caa2bde1-e7ef-4ab1-ab95-c6fda843aabc@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...
 
 
 vless://caa2bde1-e7ef-4ab1-ab95-c6fda843aabc@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_c222
@@ -25,12 +25,12 @@ vless://1a623f79-68b7-40c0-83f7-a90057cdad32@Zmaoz.Faculty.Ucdavis.Edu:443?path=
 
 
 
-vless://cf6c9450-f577-4dc3-bd06-fa1e851dc435@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_91710-1
+vless://cf6c9450-f577-4dc3-bd06-fa1e851dc435@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...
 
 vless://cf6c9450-f577-4dc3-bd06-fa1e851dc435@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-6160615500_91711-Ipv6
 
 
-vless://cf6c9450-f577-4dc3-bd06-fa1e851dc435@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Parsashonam+%F0%9F%87%BA%F0%9F%87%B8.6160615500_9171
+vless://cf6c9450-f577-4dc3-bd06-fa1e851dc435@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.6160615500_9171
 
 
 
