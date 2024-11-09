@@ -1,62 +1,55 @@
-vless://Parsashonam-84@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn 🇩🇪
 
-vless://Parsashonam-84@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn 🇩🇪
+vless://Parsashonam-101@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn 🇩🇪
 
-vless://Parsashonam-84@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Alireza-vpn 🇩🇪 نیازمند فعال بودن ipv6 
+vless://Parsashonam-101@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn 🇩🇪
 
-vless://ad082118-9c64-4b23-ed5a-f637371c4236@www.speedtest.net:80?serviceName=&path=%2F%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry,%74%65l%65g%72a%6d-%41f%562ry%3Fed%3D80&serviceName=&security=none&encryption=none&host=ac.www.speedtest.net.zula.ir.iranfastfod.iR.&type=httpupgrade#Alireza-vpn | ALL (جاسم)
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#Alireza-vpn MTN |  (ژاکلین)
+vless://Parsashonam-101@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Alireza-vpn 🇩🇪 نیازمند فعال بودن ipv6 
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-Xv2ry2-7%3Fed%3D512&security=tls&encryption=none&host=1v-2wk.pages.dev&type=ws&sni=Pages.dev#Alireza-vpn | MCI (نوستراداموس)
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-Xv2ry2-7%3Fed%3D512&security=tls&encryption=none&host=x123456789000qwertyuioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x123456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wi0.ip-dynamic.org&type=ws&sni=x123456789000qwertyuioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x123456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wi0.ip-dynamic.org#Alireza-vpn | MCI (ژانگولر)
+vless://5374f162-d2a8-4ae7-ba66-53832b51a894@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade#Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_2f680-1
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.62.102:443?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2FTelegram-Xv2ry2-7%3Fed%3D1080&security=tls&encryption=none&host=9x.ru&type=ws&sni=default.ssl.fastly.net#Alireza-vpn | ALL (مایکل آنجلو)
+vless://5374f162-d2a8-4ae7-ba66-53832b51a894@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_2f681-0
 
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2FTelegram-Xv2ry2-7%3Fed%3D2048&security=none&encryption=none&host=9x.ru&type=ws#Alireza-vpn | ALL (اورانگوتان)
+vless://5374f162-d2a8-4ae7-ba66-53832b51a894@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_2f682-0
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2FTelegram-WedBaZ%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#Alireza-vpn | ALL (آدما انسانن)
+
+vless://5374f162-d2a8-4ae7-ba66-53832b51a894@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_2f68
 
 
 
-vless://236ff46f-df52-4a69-8907-2b37a3053839@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade#Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_c0c80-1
+vless://308c2f27-7ae9-47bc-9ada-4b83a0eb72e9@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade#Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_1a130-0
 
-vless://236ff46f-df52-4a69-8907-2b37a3053839@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_c0c81-0
+vless://308c2f27-7ae9-47bc-9ada-4b83a0eb72e9@[2a00:b703:fff1:46::1]:36001?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%20ipv6-6160615500_1a131-0
 
-vless://236ff46f-df52-4a69-8907-2b37a3053839@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_c0c82-0
-
-
-vless://236ff46f-df52-4a69-8907-2b37a3053839@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_c0c8
+vless://308c2f27-7ae9-47bc-9ada-4b83a0eb72e9@Speedtest.net:443?host=ParsashonamNlBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_1a132-0
 
 
- 
-vless://45275ec5-6208-4a38-8685-054876a3cbc4@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade#Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_62090-0
+vless://308c2f27-7ae9-47bc-9ada-4b83a0eb72e9@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+6160615500_1a13
 
-vless://45275ec5-6208-4a38-8685-054876a3cbc4@[2a00:b703:fff1:46::1]:36001?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%20ipv6-6160615500_62091-0
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?security=tls&sni=Pages.dev&type=ws&path=/Telegram-Xv2ry2-8?ed%3D512&host=1v-2wk.pages.dev&encryption=none#Alireza-vpn ALL |  (مش آرمین)
 
-vless://45275ec5-6208-4a38-8685-054876a3cbc4@Speedtest.net:443?host=ParsashonamNlBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_62092-0
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?path=%2FTelegram-Xv2ry2-8%3Fed%3D2048&security=none&encryption=none&host=9x.ru.&type=ws#Alireza-vpn | ALL (ژاکلین)
 
+vless://11b4dba9-272d-4a3a-8263-7a9b78f181d3@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#Alireza-vpn | MCI (نوستراداموس)
 
-vless://45275ec5-6208-4a38-8685-054876a3cbc4@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+6160615500_6209
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#Alireza-vpn | ALL (عای سیفید)
 
+vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dweinsskw13.net&path=%2F%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y%3Fed%3D2048#Alireza-vpn | ALL (بچه شیر)
 
- 
-vless://ef344ab9-a18c-4c7c-b2ad-5cf6bc456bf3@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_e2680-1
+vless://%50a%72sa%73%68%6fna%6d-101@185.146.173.39:8880?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram :  @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn | ALL (مایکل آنجلو)
 
-vless://ef344ab9-a18c-4c7c-b2ad-5cf6bc456bf3@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-6160615500_e2681-Ipv6
+vless://%50a%72sa%73%68%6fna%6d-101@Zmaoz.Faculty.Ucdavis.Edu:443?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram :  @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn | ALL  (اورانگوتان)
 
+vless://b551a105-2391-4182-8e5a-5e0d3323fc27@re.iranfastfod.ir:6543?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ad52706b#Alireza-vpn | ALL (آدما انسانن)
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Shuow7.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#@vipv2rayngnp
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#🇩🇪 #Alireza-vpn
+‌
 
-vless://ef344ab9-a18c-4c7c-b2ad-5cf6bc456bf3@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.6160615500_e268
-
-
- 
-vless://54f151dc-9cb8-4171-ad13-defd043b1075@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...99-6160615500_d1950-1
-
-vless://54f151dc-9cb8-4171-ad13-defd043b1075@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp#Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-6160615500_d1951-Ipv6
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@104.18.165.38:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#🇳🇱 #Alireza-vpn
 
 
-vless://54f151dc-9cb8-4171-ad13-defd043b1075@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.6160615500_d195
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#🇨🇵 #Alireza-vpn
 
 
 
