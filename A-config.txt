@@ -1,4 +1,8 @@
-vless://Parsashonam-108@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn 🇩🇪
+vless://Parsashonam-112@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Alireza-vpn 🇩🇪  ipv6 
+
+vless://Parsashonam-112@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn 🇩🇪
+
+vless://Parsashonam-112@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn 🇩🇪
 
 
 vless://f70db188-f128-4547-812a-2bb065d39559@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_dacf0-1
