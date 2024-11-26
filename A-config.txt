@@ -1,66 +1,69 @@
-vless://Parsashonam-112@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Alireza-vpn 🇩🇪  ipv6 
-
-vless://Parsashonam-112@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#Alireza-vpn 🇩🇪
-
-vless://Parsashonam-112@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#Alireza-vpn 🇩🇪
 
 
-vless://f70db188-f128-4547-812a-2bb065d39559@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_dacf0-1
+vless://Parsashonam-115@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade# Alireza-vpn 🇩🇪
 
-vless://f70db188-f128-4547-812a-2bb065d39559@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-8052796187_dacf1-0
-
-vless://f70db188-f128-4547-812a-2bb065d39559@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_dacf2-0
-
-vless://f70db188-f128-4547-812a-2bb065d39559@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE8052796187_dacf
-
-vless://04f202ce-7955-4779-a22f-8bb051036c39@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_0a310-0
-
-vless://04f202ce-7955-4779-a22f-8bb051036c39@Speedtest.net:443?host=ParsashonamNlBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_0a312-0
-
-vless://04f202ce-7955-4779-a22f-8bb051036c39@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+8052796187_0a31
-vless://3bf7d5d4-62a7-4d6e-ad14-c8864a461748@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_99820-1
-
-vless://3bf7d5d4-62a7-4d6e-ad14-c8864a461748@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-8052796187_99821-Ipv6
-vless://3bf7d5d4-62a7-4d6e-ad14-c8864a461748@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.8052796187_9982
-vless://26f916b2-7201-49be-91fe-ddbb620d020d@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_04f70-0
-vless://26f916b2-7201-49be-91fe-ddbb620d020d@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+8052796187_04f7
-
-vless://00712943-5c33-4848-9877-f03df2e7feda@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_38a50-1
-
-vless://00712943-5c33-4848-9877-f03df2e7feda@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-8052796187_38a51-Ipv6
-
-vless://00712943-5c33-4848-9877-f03df2e7feda@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.8052796187_38a5
-
-vless://2046cb58-5e34-4a67-80a0-58eb76434f93@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_552b0-1
-
-vless://2046cb58-5e34-4a67-80a0-58eb76434f93@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-8052796187_552b1-0
+vless://Parsashonam-115@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# Alireza-vpn 🇩🇪
 
 
-vless://2046cb58-5e34-4a67-80a0-58eb76434f93@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE8052796187_552b
 
-vless://72a6029a-564c-4f6f-ad2e-cc0fd97e56e1@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-8052796187_24ef0-0
+vless://Parsashonam-115@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp# Alireza-vpn 🇩🇪 نیازمند فعال بودن ipv6 
+ 
 
-vless://72a6029a-564c-4f6f-ad2e-cc0fd97e56e1@[2a00:b703:fff1:46::1]:36001?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%20ipv6-8052796187_24ef1-0
+vless://6e14b733-8df8-4569-b595-eb95c50d9c2d@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_abf30-1
 
-vless://72a6029a-564c-4f6f-ad2e-cc0fd97e56e1@Speedtest.net:443?host=ParsashonamNlBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_24ef2-0
+vless://6e14b733-8df8-4569-b595-eb95c50d9c2d@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_abf31-0
 
-
-vless://72a6029a-564c-4f6f-ad2e-cc0fd97e56e1@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+8052796187_24ef
-
-vless://e3a6a6c9-d97c-41d8-a2b5-6cadd78e86ec@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-8052796187_60840-1
-
-vless://e3a6a6c9-d97c-41d8-a2b5-6cadd78e86ec@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.8052796187_6084
-
-vless://64fc3bdf-d682-441e-9928-cb9f6f0b2c51@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_7e0e0-1
-
-vless://64fc3bdf-d682-441e-9928-cb9f6f0b2c51@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_7e0e1-0
-
-vless://64fc3bdf-d682-441e-9928-cb9f6f0b2c51@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-6160615500_7e0e2-0
+vless://6e14b733-8df8-4569-b595-eb95c50d9c2d@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#%DB%8C%D8%A7%D8%AF%D8%AA%20%D9%86%D8%B1%D9%87%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B1%D9%88%20%D8%A8%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%B9%D8%B1%D9%81%DB%8C%20%DA%A9%D9%86%DB%8C%20%F0%9F%92%99-6160615500_abf32-0
 
 
-vless://64fc3bdf-d682-441e-9928-cb9f6f0b2c51@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_7e0e
+vless://6e14b733-8df8-4569-b595-eb95c50d9c2d@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_abf3
 
-vless://e54f284e-842b-4f2d-b278-f5268183be95@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_56fe0-0
+
+ 
+
+
+vless://a82297be-3e58-4b83-b03d-babf23522d26@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_50620-0
+
+vless://a82297be-3e58-4b83-b03d-babf23522d26@[2a00:b703:fff1:46::1]:36001?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%20ipv6-6160615500_50621-0
+
+
+vless://a82297be-3e58-4b83-b03d-babf23522d26@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+6160615500_5062
+
+
+ 
+
+
+vless://1affe01a-b928-4830-9f38-8fec09c97e5b@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#%DB%8C%D8%A7%D8%AF%D8%AA%20%D9%86%D8%B1%D9%87%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B1%D9%88%20%D8%A8%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%B9%D8%B1%D9%81%DB%8C%20%DA%A9%D9%86%DB%8C%20%F0%9F%92%99-6160615500_35310-1
+
+vless://1affe01a-b928-4830-9f38-8fec09c97e5b@[2a01:4ff:1f0:f207::1]:2222?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%BA%F0%9F%87%B8%20ipv6%E2%9A%A0%EF%B8%8F-6160615500_35311-Ipv6
+
+
+vless://1affe01a-b928-4830-9f38-8fec09c97e5b@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Usa-Parsashonam.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%BA%F0%9F%87%B8.6160615500_3531
+
+
+ 
+
+
+vless://639bcbe4-b443-429d-99fe-4be5752aa7fd@185.146.173.39:8880?host=Login.CafeBazaar.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%D8%A7%DA%A9%D8%AB%D8%B1%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_bfbf0-1
+
+vless://639bcbe4-b443-429d-99fe-4be5752aa7fd@[2a01:4f9:c011:53fb::1]:12535?security=none&type=tcp# Alireza-vpn%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-6160615500_bfbf1-0
+
+vless://639bcbe4-b443-429d-99fe-4be5752aa7fd@Speedtest.net:443?host=ParsashonamFiBot.Com&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#%DB%8C%D8%A7%D8%AF%D8%AA%20%D9%86%D8%B1%D9%87%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B1%D9%88%20%D8%A8%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%B9%D8%B1%D9%81%DB%8C%20%DA%A9%D9%86%DB%8C%20%F0%9F%92%99-6160615500_bfbf2-0
+
+
+vless://639bcbe4-b443-429d-99fe-4be5752aa7fd@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamFiBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%AB%F0%9F%87%AE6160615500_bfbf
+
+
+ 
+
+
+vless://418f0da3-160f-4164-9b9e-24d18b67f1de@185.146.173.39:8080?host=Login.Limoo.CYoU.&path=%2F&security=none&type=httpupgrade# Alireza-vpn%20%F0%9F%87%B3%F0%9F%87%B1%D8%A7%DA%A9%D8%AB%D8%B1%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7-6160615500_f9200-0
+
+
+vless://418f0da3-160f-4164-9b9e-24d18b67f1de@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+6160615500_f920
+
+
+
 vless://e54f284e-842b-4f2d-b278-f5268183be95@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamNlBot.Com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.# %40Alireza-vpn%F0%9F%87%B3%F0%9F%87%B1+6160615500_56fe
 
 vless://70096627-64f1-477d-90a7-af9d11c3dc88@Telegram.Parsashonam:443?host=Usa-Parsashonam.ir&path=%2F%40Parsashonam%2C%40ParsashonamBots%2C%40Parsashonam_Bot%2Fws%2F%3Fed%3D2560&security=none&type=ws#...-6160615500_a7020-1
